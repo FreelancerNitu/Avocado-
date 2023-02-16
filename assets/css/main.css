@@ -1,0 +1,20 @@
+#primary-menu .menu-item {
+  list-style: none;
+  padding: 10px 20px;
+}
+#primary-menu .menu-item a {
+	font-size: 20px;
+	color: #fff;
+  transition: .3s;
+}
+#primary-menu .menu-item a:hover {
+	color: rgb(226, 58, 58);
+}
+
+/* Child Sidebar */
+.child-sidebar h2 {
+	border-left: 3px solid #ee4e23;
+	border-radius: 3px;
+	padding: 0 10px;
+	text-transform: capitalize;
+}
